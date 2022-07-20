@@ -16,5 +16,3 @@ description: Traffic for services in multi-docker app
 IAM info:
 
 multi-docker-deployer
-secret-access-key: NQKHCuGQ2KWNIXtoMs64yj+BycQs57heaS4eaQIa
-access-key-id: AKIARPZBMQBUSVMPTWO3
