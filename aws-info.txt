@@ -1,0 +1,17 @@
+RDS info:
+
+database instance name: multi-docker-postgres
+databaseusername: postgres
+databasepassword: postgrespassword
+databasename: fibvalues
+
+Redis info:
+redisclustername: multi-docker-redis
+subnet group name: redis-group-1
+
+VPC security group info:
+name: multi-docker
+
+IAM info:
+
+multi-docker-deployer
