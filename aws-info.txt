@@ -7,11 +7,14 @@ databasename: fibvalues
 
 Redis info:
 redisclustername: multi-docker-redis
-subnet group name: redis-group-1
+subnet group name: redis-group
 
 VPC security group info:
 name: multi-docker
+description: Traffic for services in multi-docker app
 
 IAM info:
 
 multi-docker-deployer
+secret-access-key: NQKHCuGQ2KWNIXtoMs64yj+BycQs57heaS4eaQIa
+access-key-id: AKIARPZBMQBUSVMPTWO3
